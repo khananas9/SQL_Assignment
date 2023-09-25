@@ -1,0 +1,9 @@
+Employee_id,First_name,Last_name,Salary,joining_date,Department
+1,Anika,Arora,100000,14-02-2020 09:00,HR
+2,Veena,Verma,80000,15-06-2011 09:00,Admin
+3,Vishal,Singhal,300000,16-02-2020 09:00,HR
+4,Sushanth,Singh,500000,17-02-2020 09:00,Admin
+5,bhupal,Bhati,550000,18-06-2011 09:00,Admin
+6,Dheeraj,Diwan,200000,19-06-2011 09:00,Account
+7,Karan,Kumar,75000,14-01-2020 09:00,Account
+8,Chandrika,Chauhan,90000,15-04-2011 09:00,Admin
